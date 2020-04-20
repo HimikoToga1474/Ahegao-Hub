@@ -1,5 +1,5 @@
 repeat wait() until game:IsLoaded()
-local MainLink = "https://raw.githubusercontent.com/HimikoToga1474/Ahegao-Hub/Master/"
+local MainLink = "https://raw.githubusercontent.com/HimikoToga1474/Ahegao-Hub/master/"
 shared.games = {
     [4562626938] = "Limitless RPG",
     [536102540] = "Dragon Ball Z Final Stand",
