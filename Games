@@ -1,7 +1,6 @@
 return 
 {
     [4562626938] = "Limitless RPG",
-    [536102540] = "Dragon Ball Z Final Stand",
     [4368069325] = "Building Simulator 2",
     [3652625463] = "Lifting Simulator",
     [1417427737] = "Mining Simulator",
@@ -16,8 +15,6 @@ return
     [4036494886] = "Gun Simulator",
     [4901778579] = "Button Legends",
     [5041067762] = "Bomb Simulator",
-    [4860522479] = "Ro-Force",
-    [5234640729] = "Era of Aincrad",
     [2990100290] = "RPG Simulator",
     [5600963870] = "Shark Evolution",
     [4277144950] = "Legend RPG II",
