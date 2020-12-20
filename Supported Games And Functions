@@ -21,12 +21,14 @@ Mining Simulator
         Nuke Aura
         Auto Chest
         Auto Ore
+        
     Player
         Auto Buy Crates
         Auto Open Crates
         Auto Equip Eggs
         WalkSpeed
         JumpPower
+        
     Visual
         Stone Transparency
         Rainbow Tools
@@ -40,6 +42,7 @@ World // Zero
         Sprint Speed
         Grab Chests (only in tower 1)
         Grab Key (only in tower 1)
+        
     Misc Functions
         Auto Feed
 
@@ -50,6 +53,7 @@ Reaper Simulator 2
         Auto Buy Scythes
         Auto Buy Satchels
         Auto Buy Auras
+        
     Misc Functions
         Tp All Coins
         Tp All Souls
@@ -61,6 +65,7 @@ Reaper Simulator 2
 Monster Attack
     Main Functions
         Kill All Monsters
+        
     Misc Functions
         Destroy Gui
         
@@ -72,6 +77,7 @@ Ramen Simulator
         Auto Buy Heat
         Auto Buy Jumps
         Auto Buy Ranks
+        
     Misc Functions
         Unlock Islands
         
@@ -83,6 +89,7 @@ Project X
         Insta Kill
         Godmode
         Invisibility
+        
     Extra Functions
         Auto Buy Items
         Grab Chests
@@ -103,6 +110,7 @@ Bomb Simulator
         Autofarm
         Fast Swing
         Auto Buy Swords
+        
     Misc Functions
         Auto Open Eggs
         Destroy Gui
@@ -110,8 +118,10 @@ Bomb Simulator
 RPG Simulator
     Main
         Autofarm
+        
     Boss Farming
         Boss Autofarm
+        
     Misc
         WalkSpeed
         Skill Spam
@@ -143,6 +153,7 @@ Heroes Legacy
         Noclip
         Autofarm Chosen NPC (Villain)
         Autofarm Chosen NPC (Hero)
+        
     Misc
         Toggle Gui
         
@@ -152,5 +163,6 @@ Fairy Tail Lost Souls
         Auto Swing
         Noclip
         Auto Farm
+        
     Misc
         Toggle Gui
