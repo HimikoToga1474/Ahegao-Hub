@@ -1,11 +1,8 @@
 return 
 {
-    [4562626938] = "Limitless RPG",
     [4368069325] = "Building Simulator 2",
     [3652625463] = "Lifting Simulator",
     [1417427737] = "Mining Simulator",
-    [4063374088] = "Planet Hoppers",
-    [2716845201] = "Warrior Simulator",
     [2727067538] = "World Zero",
     [3869043631] = "Fairy Tail Lost Souls",
     [4828705676] = "Reaper Simulator 2",
@@ -13,7 +10,6 @@ return
     [4961974633] = "Ramen Simulator",
     [4834057358] = "Project X",
     [4036494886] = "Gun Simulator",
-    [4901778579] = "Button Legends",
     [5041067762] = "Bomb Simulator",
     [2990100290] = "RPG Simulator",
     [5600963870] = "Shark Evolution",
