@@ -1,4 +1,4 @@
-[ Updated 12/20/2020 ]
+[ Updated 12/21/2020 ]
 
 
 
@@ -35,7 +35,8 @@ Mining Simulator
 
 World // Zero
     Main Functions
-        Kill Aura (inf range)
+        Kill Aura
+        Kill Aura Range Changer (can go from 1 to inf)
         Pickups Magnet
         Join Solo Holiday Raid
         Godmode
