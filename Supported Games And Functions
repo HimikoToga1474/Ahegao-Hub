@@ -42,7 +42,7 @@ World // Zero
         Godmode
         Sprint Speed
         Grab Chests (only in tower 1)
-        Grab Key (only in tower 1)
+        Tp To End (only in tower 1)
         
     Misc Functions
         Auto Feed
