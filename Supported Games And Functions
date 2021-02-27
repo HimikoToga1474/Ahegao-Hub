@@ -204,7 +204,7 @@ Project XL
     Main
         Autofarm
         InstaKill
-        Godmode
+        -- Godmode (removed atm)
         HideName
     Misc
         Use all Codes
