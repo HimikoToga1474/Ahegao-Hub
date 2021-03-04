@@ -35,10 +35,9 @@ Mining Simulator
 
 World // Zero
     Main Functions
-        Kill Aura
-        Kill Aura Range Changer (can go from 1 to inf)
+        --Kill Aura (patched atm)
+        --Kill Aura Range Changer (can go from 1 to inf)
         Pickups Magnet
-        Join Solo Holiday Raid
         Godmode
         Sprint Speed
         Grab Chests (only in tower 1)
