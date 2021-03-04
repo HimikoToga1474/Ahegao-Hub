@@ -1,4 +1,4 @@
-[ Updated 02/22/2021 ]
+[ Updated 03/04/2021 ]
 
 
 
@@ -203,10 +203,10 @@ Project XL
     Main
         Autofarm
         Autoquest
-        InstaKill
+        -- InstaKill (patched atm)
         -- Godmode (removed atm)
         HideName
     Misc
         Use all Codes
         Pickup All Items
-        Server Hop
+        Server Hop -- (Buggy and shitty)
