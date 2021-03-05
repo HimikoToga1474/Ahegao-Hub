@@ -203,10 +203,12 @@ Project XL
     Main
         Autofarm
         Autoquest
-        -- InstaKill (patched atm)
+        Kill Aura
+        Auto Use Skills
+        InstaKill (Buggy)
         -- Godmode (removed atm)
         HideName
     Misc
         Use all Codes
         Pickup All Items
-        Server Hop -- (Buggy and shitty)
+        Auto Use Urns
