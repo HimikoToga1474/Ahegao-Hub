@@ -1,4 +1,5 @@
 return 
 {
-    [4195834406] = "ca4b49c09835e4b70603876d90e5b8ff",
+    [4195834406] = "ca4b49c09835e4b70603876d90e5b8ff", -- Dragon Ball Online Generations
+    [10450270085] = "74bf430ba9d49428557714ac1b545518", -- Jujutsu Infinite
 }
